@@ -1,8 +1,3 @@
-# sprite-mind
-
-基于 spritejs 基础脑图库
-
-```js
 import { SpriteMind } from '../src'
 
 let data = {
@@ -40,6 +35,3 @@ window.oncontextmenu = function(e) {
   e.preventDefault()
 }
 console.log(spriteMind)
-```
-
-![avatar](/mind.png)
