@@ -3,7 +3,7 @@
 基于 spritejs 基础脑图库
 
 ```js
-import { SpriteMind } from '../src'
+import { SpriteMind } from 'sprite-mind'
 
 let data = {
   text: '脑图测试',
