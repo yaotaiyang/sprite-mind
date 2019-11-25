@@ -42,4 +42,4 @@ window.oncontextmenu = function(e) {
 console.log(spriteMind)
 ```
 
-![avatar](/mind.png)
+![sprite-mind](/mind.png)
