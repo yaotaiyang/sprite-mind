@@ -17,7 +17,7 @@ class SpriteMind extends Stage {
         addNode.bind(this)(mainNode, data.children, nodeTree.children)
       }
       this.layout()
-      super.checkForceLink(false)
+      super.checkForceLink(option.animation)
     }
   }
   layout() {

@@ -25,7 +25,7 @@ let data = {
 let spriteMind = new SpriteMind(
   {
     selector: '#app',
-    animation: false,
+    animation: true,
     size: [800, 600]
   },
   data

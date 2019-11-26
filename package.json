@@ -1,6 +1,6 @@
 {
   "name": "sprite-mind",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sprite-mind",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "filter-clone": "^0.0.11",
-    "sprite-nodes-links": "0.0.15"
+    "sprite-nodes-links": "0.0.20"
   },
   "devDependencies": {
     "webpack": "^4.41.2",
