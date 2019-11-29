@@ -12,6 +12,7 @@
     "example": "examples"
   },
   "dependencies": {
+    "auto-layouter": "^0.0.2",
     "filter-clone": "^0.0.11",
     "sprite-nodes-links": "0.0.20"
   },
